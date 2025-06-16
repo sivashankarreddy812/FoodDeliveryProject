@@ -1,0 +1,12 @@
+# Ignore Eclipse project files
+.classpath
+.project
+.settings/
+
+# Ignore build files
+target/
+build/
+*.class
+
+# Ignore lib folder if you have jars inside
+src/main/webapp/WEB-INF/lib/
