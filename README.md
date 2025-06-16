@@ -6,7 +6,7 @@ This is a dynamic full-stack web application for ordering food from restaurants.
 
 - User registration and login
 - View restaurant list
-- View menus (2 restaurants)
+- View menus 
 - Add to cart, checkout, and order confirmation
 - Stores data in MySQL using JDBC
 
